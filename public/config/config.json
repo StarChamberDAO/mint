@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa739c8952e73f73C52501Fb0Fb9F011719B7Bc9b",
+  "SCAN_LINK": "https://ropsten.etherscan.io/token/0xa739c8952e73f73C52501Fb0Fb9F011719B7Bc9b",
+  "NETWORK": {
+    "NAME": "Ropsten",
+    "SYMBOL": "ETH",
+    "ID": 3
+  },
+  "NFT_NAME": "Star Chamber DAO",
+  "SYMBOL": "SC",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 300000000000000000,
+  "DISPLAY_COST": 0.3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/starchamber",
+  "SHOW_BACKGROUND": false
+}
