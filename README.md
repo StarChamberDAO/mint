@@ -1,4 +1,4 @@
-# Star Chamber Minting Daap: Installation
+# Star Chamber MD: Installation
 
 ```sh
 git clone https://github.com/StarChamberDAO/mint.git
@@ -10,7 +10,7 @@ Make sure you have node.js installed so you can use npm, then run:
 npm install
 ```
 
-## Usage ℹ️
+## Star Chamber MD: Config
 
 In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.
 
@@ -88,6 +88,8 @@ Also remember to update the short_name and name fields in the `public/manifest.j
   "name": "Star Chamber DAO",
 }
 ```
+
+## Star Chamber MD: Deploy
 
 After all the changes you can run.
 
