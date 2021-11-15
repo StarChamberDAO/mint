@@ -103,4 +103,10 @@ npm run build
 
 Now you can host the contents of the build folder on a server.
 
-That's it! you're done.
+```sh
+yarn global add serve
+```
+
+```sh
+serve -s build
+```
