@@ -1,7 +1,7 @@
 # Star Chamber Minting Daap: Installation
 
 ```sh
-git clone https://github.com/HashLips/hashlips_nft_minting_dapp.git
+git clone https://github.com/StarChamberDAO/mint.git
 ```
 
 Make sure you have node.js installed so you can use npm, then run:
