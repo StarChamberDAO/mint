@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xa739c8952e73f73C52501Fb0Fb9F011719B7Bc9b",
-  "SCAN_LINK": "https://ropsten.etherscan.io/token/0xa739c8952e73f73C52501Fb0Fb9F011719B7Bc9b",
+  "CONTRACT_ADDRESS": "0x86Dc7F01F6C9A0970da339743748711098ffAb4e",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x86Dc7F01F6C9A0970da339743748711098ffAb4e",
   "NETWORK": {
-    "NAME": "Ropsten",
+    "NAME": "Rinkeby",
     "SYMBOL": "ETH",
-    "ID": 3
+    "ID": 4
   },
   "NFT_NAME": "Star Chamber DAO",
-  "SYMBOL": "SC",
+  "SYMBOL": "SCD",
   "MAX_SUPPLY": 100,
   "WEI_COST": 300000000000000000,
   "DISPLAY_COST": 0.3,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/starchamber",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/star-chamber-dao-livetest",
   "SHOW_BACKGROUND": false
 }
