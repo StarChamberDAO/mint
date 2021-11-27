@@ -84,7 +84,7 @@ Also remember to update the short_name and name fields in the `public/manifest.j
 
 ```json
 {
-  "short_name": "SC",
+  "short_name": "SCD",
   "name": "Star Chamber DAO",
 }
 ```
